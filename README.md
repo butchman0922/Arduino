@@ -11,6 +11,7 @@ Optional tools:
     sudo pacman -S simavr vim astyle
 
 Build and install arduino:
+
     mkdir builds
     cd builds
     git clone https://aur.archlinux.org/arduino.git
