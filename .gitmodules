@@ -1,0 +1,9 @@
+[submodule "libraries/RTClib"]
+	path = libraries/RTClib
+	url = https://github.com/adafruit/RTClib.git
+[submodule "libraries/webduino"]
+	path = libraries/webduino
+	url = https://github.com/sirleech/webduino.git
+[submodule "utilities/Arduino-Makefile"]
+	path = utilities/Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
