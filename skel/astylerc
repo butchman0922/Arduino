@@ -1,0 +1,18 @@
+# bracket using a modified K&R style called "One True Brace Style" screw Linus
+--style=allman
+--add-one-line-brackets
+
+# convert tabs and insert spaces
+--convert-tabs
+--indent=spaces=4
+
+# fix indents and alignments
+--indent-col1-comments
+--align-pointer=name
+--align-reference=name
+
+# whitspace around operators
+--pad-oper
+
+# use sane linefeed
+--lineend=linux
